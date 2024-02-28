@@ -10,6 +10,7 @@ public class Gittest {
         System.out.println("hello git! --master dev ");
         System.out.println("hello git! --master dev ");
         System.out.println("hello git! --master to dev & remote ");
+        System.out.println("hello git! --master to dev & remote2 ");
         System.out.println("hello git! --remote dev to  master");
     }
 }
