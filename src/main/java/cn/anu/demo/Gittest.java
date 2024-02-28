@@ -15,6 +15,7 @@ public class Gittest {
         System.out.println("hello git! --remote dev to  master");
         System.out.println("hello git! --master to dev & remote2 ");
         System.out.println("hello git! --master to dev & remote3 ");
+        System.out.println("this is gitee code!");
     }
 }
 
